@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-amants-invisibles/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Les Amants Invisibles](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-amants-invisibles/) |
+| **Get License** | [Obtain a Music License for Les Amants Invisibles](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-amants-invisibles/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> T'as cette lueur dans les yeux, bébé, la nuit s'embrase
+> Sous les néons de Paname, on est seuls dans notre case
+> I need your touch, laisse-moi te guider dans le noir
+> On est les amants invisibles, rois du boulevard
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
