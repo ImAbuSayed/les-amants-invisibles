@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Les Amants Invisibles
+
+This log tracks the cryptographic history and versioning for the song **Les Amants Invisibles** (les-amants-invisibles).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T02:09:37.416287 | `v1` | `e63506e0175b44cbafc265ce2455fe91d9f3c85185936dcf6a1bfdddde519b4a` | `a0f64714689398a3a9e5ed84facaef2f74c173312b83bb414b2b6d0994b63297` | `2026-06-26_les-amants-invisibles-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
