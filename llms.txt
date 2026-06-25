@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-amants-invisibles/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Les Amants Invisibles](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-amants-invisibles/) |
+| **Get License** | [Secure Licensing Rights for Les Amants Invisibles](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-amants-invisibles/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4341)
 
 ---
 
